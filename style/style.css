@@ -316,6 +316,11 @@ i{
     display: flex;
 }
 
+.foot__icon section {
+    display: flex;
+}
+
+
 .foot__text{
     font-size: 2rem;
     margin-right: 2rem;
